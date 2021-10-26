@@ -20,14 +20,10 @@
 ### 
   
 I'm a data scientist working as a Technical Solutions Manager for TikTok. For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
-Feel free to look at my repo and see what I have worked on so far; much more to come!  
+Feel free to take a look at my repo and see what I have worked on so far; much more to come!  
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on machine learning house price prediction project  
   
@@ -38,20 +34,11 @@ Feel free to look at my repo and see what I have worked on so far; much more to 
 - ⚡ I have a certificate in Data Science from the UC Berkeley Extension  
   
 
-🎵 I’m currently working for TikTok  
+- 🎵 I’m currently working for TikTok  
   
 
 - ❓ Ask me about anything related to performance marketing, data and what's in between  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized-large.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
