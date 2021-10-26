@@ -26,7 +26,6 @@ Feel free to look at my repo and see what I have worked on so far; much more to 
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on machine learning house price prediction project  
