@@ -16,7 +16,6 @@
   
 
 
-
 ### 
   
 I'm a data scientist working as a Technical Solutions Manager for TikTok. For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
@@ -93,3 +92,11 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 <br />
 
 ----
+<br />
+
+### Here is a random geek meme:
+
+<br />
+<br />
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 50%" />
