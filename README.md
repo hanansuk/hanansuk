@@ -1,5 +1,6 @@
 ## Hey y'all 👋 I'm Hanan Sukenik 🏄  
-  
+
+<br/>  
 
 <a href="https://github.com/hanansuk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,35 +69,25 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 <br/>  
 
 
-## Github Stats  
-
-
-
+<div align="center">  
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanansuk&hide_border=true&layout=compact" align="left" style="width: 50%" />
-
-</td></tr></table>  
-
 <br/>  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanansuk&hide_border=true&layout=compact" align="center" style="width: 50%" />
 
-  
-
+</div>  
 <br/>  
-
-  
-
 <br/>  
-
-
-<br />
 
 ----
+
 <br />
 
 ### Here is a random geek meme:
 
-<br />
+<div align="center">  
+
 <br />
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 50%" />
+</div>  
