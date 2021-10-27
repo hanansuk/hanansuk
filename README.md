@@ -25,7 +25,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 
 <br/>  
 
-- 🔭 I’m currently working on machine learning house price prediction project  
+- 🔭 I’m currently working on a machine learning house price prediction project  
   
 
 - 🌱 I’m a graduate student for a Data Science (MIDS) degree at the UC Berkeley  
