@@ -45,6 +45,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 
 ## Languages and Tools  
 <div align="center">  
+  <br/>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
@@ -66,8 +67,6 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
 </div>  
 
-<br/>  
-
 
 <div align="center">  
 </td><td valign="top" width="50%">
@@ -75,19 +74,3 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanansuk&hide_border=true&layout=compact" align="center" style="width: 50%" />
 
-</div>  
-<br/>  
-<br/>  
-
-----
-
-<br />
-
-### Here is a random geek meme:
-
-<div align="center">  
-
-<br />
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 50%" />
-</div>  
