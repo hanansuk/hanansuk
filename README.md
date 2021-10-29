@@ -28,10 +28,10 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 - 🔭 I’m currently working on a machine learning house price prediction project  
   
 
-- 🌱 I’m a graduate student for a Data Science (MIDS) degree at the UC Berkeley  
+- 🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
   
 
-- ⚡ I have a certificate in Data Science from the UC Berkeley Extension  
+- ⚡ I have a certificate in Data Science from UC Berkeley Extension  
   
 
 - 🎵 I’m currently working for TikTok  
