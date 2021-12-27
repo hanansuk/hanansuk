@@ -25,19 +25,19 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 
 <br/>  
 
-- 🔭 I’m currently studying Machine Learning at Scale (w261)
+🔭 I’m currently studying Machine Learning at Scale (w261)
   
 
-- 🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
+🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
   
 
-- ⚡ I have a certificate in Data Science from UC Berkeley Extension  
+⚡ I have a certificate in Data Science from UC Berkeley Extension  
   
 
-- 🎵 I currently work for TikTok
+🎵 I currently work for TikTok
   
 
-- ❓ Ask me about anything related to performance marketing, data and what's in between  
+❓ Ask me about anything related to performance marketing, data and what's in between  
   
 
 <br/>  
