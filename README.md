@@ -34,7 +34,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 ⚡ I have a certificate in Data Science from UC Berkeley Extension  
   
 
-🎵 I currently work for TikTok
+🎵 I currently work for TikTok as a Data Scientist
   
 
 ❓ Ask me about anything related to performance marketing, data and what's in between  
