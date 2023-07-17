@@ -25,7 +25,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 
 <br/>  
 
-🔭 I’m currently studying Experiments and Causal Inference (w241)
+🔭 I’m currently working on my capstone project (210)
   
 
 🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
@@ -34,7 +34,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 ⚡ I have a certificate in Data Science from UC Berkeley Extension  
   
 
-🎵 I currently work for TikTok as a Data Scientist
+🎵 I currently work for TikTok as a Senior Data Scientist
   
 
 ❓ Ask me about anything related to performance marketing, user metrics, data and what's in between  
