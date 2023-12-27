@@ -20,15 +20,12 @@
 ### 
   
 I'm a data scientist working for TikTok. For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
-Feel free to take a look at my repo and see what I have worked on so far; much more to come!  
+Feel free to take a look at my repo and see what I have worked on so far; much more to come! 
   
 
 <br/>  
 
-🔭 I’m currently working on my capstone project (210)
-  
-
-🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
+🔭 I graduated with a Master's in Information and Data Science (MIDS) degree from UC Berkeley
   
 
 ⚡ I have a certificate in Data Science from UC Berkeley Extension  
@@ -37,7 +34,7 @@ Feel free to take a look at my repo and see what I have worked on so far; much m
 🎵 I currently work for TikTok as a Senior Data Scientist
   
 
-❓ Ask me about anything related to performance marketing, user metrics, data and what's in between  
+❓ Ask me about anything related to performance marketing, user growth, data and what's in between  
   
 
 <br/>  
