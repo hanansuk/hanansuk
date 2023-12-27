@@ -19,7 +19,7 @@
 
 ### 
   
-I'm a data scientist working for TikTok. For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
+I'm a data scientist at TikTok. For the projects I've worked on until today, I've primarily utilized Python, R, SQL, Bash and a variety of other tools and languages.
 Feel free to take a look at my repo and see what I have worked on so far; much more to come! 
   
 
